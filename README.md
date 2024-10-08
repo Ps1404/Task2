@@ -1,6 +1,6 @@
-# React Online Exam App
+# Full-Screen Exam Platform with Timer and Exit Restriction
 
-This is a simple online exam app built with React.
+This is a simple exam app built with React.
 
 ## Local Development Setup
 
@@ -19,6 +19,7 @@ pnpm build
 # Run test
 pnpm test
 ```
+#### Bonus Features as included-
 
 ### Authentication
 
